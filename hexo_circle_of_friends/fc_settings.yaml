@@ -17,6 +17,7 @@
 LINK: [
      { link: "https://www.wyblog1.tk/link", theme: "common" },  # 友链页地址1，修改为你的友链页地址
      { link: "https://www.imcharon.com/link", theme: "common1" }, # 友链页地址3
+     { link: "https://blog.wyblog1.tk/links/", theme: "butterfly" }
 #     ...
 ]
 
